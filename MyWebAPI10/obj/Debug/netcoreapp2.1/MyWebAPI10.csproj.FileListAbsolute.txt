@@ -1,0 +1,15 @@
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\obj\Debug\netcoreapp2.1\MyWebAPI10.csproj.CoreCompileInputs.cache
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\obj\Debug\netcoreapp2.1\MyWebAPI10.AssemblyInfoInputs.cache
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\obj\Debug\netcoreapp2.1\MyWebAPI10.AssemblyInfo.cs
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\bin\Debug\netcoreapp2.1\MyWebAPI10.deps.json
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\bin\Debug\netcoreapp2.1\MyWebAPI10.runtimeconfig.json
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\bin\Debug\netcoreapp2.1\MyWebAPI10.runtimeconfig.dev.json
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\bin\Debug\netcoreapp2.1\MyWebAPI10.dll
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\bin\Debug\netcoreapp2.1\MyWebAPI10.pdb
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\obj\Debug\netcoreapp2.1\MyWebAPI10.RazorAssemblyInfo.cache
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\obj\Debug\netcoreapp2.1\MyWebAPI10.RazorAssemblyInfo.cs
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\obj\Debug\netcoreapp2.1\MyWebAPI10.RazorTargetAssemblyInfo.cache
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\obj\Debug\netcoreapp2.1\MyWebAPI10.dll
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\obj\Debug\netcoreapp2.1\MyWebAPI10.pdb
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Daniel Osorio\dev\pruebas\NetCore\MyWebAPI10\MyWebAPI10\obj\Debug\netcoreapp2.1\MyWebAPI10.csprojAssemblyReference.cache
